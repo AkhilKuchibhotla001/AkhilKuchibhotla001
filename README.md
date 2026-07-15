@@ -10,11 +10,11 @@
 
 I am a passionate **Computer Science & Engineering (AI)** student (currently in my **7th Semester** at Amrita Vishwa Vidyapeetham) dedicated to designing, training, and deploying advanced machine learning models and building scalable full-stack applications. I bridge the gap between complex research-level Deep Learning architectures and robust web services.
 
-*   🎓 **Pursuing B.Tech** in Computer Science & Engineering (AI) — Amrita Vishwa Vidyapeetham (CGPA: **7.5**).
+*   🎓 **Pursuing B.Tech** in Computer Science & Engineering (AI) — Amrita Vishwa Vidyapeetham .
 *   🧠 **Deep Learning Research**: Currently focused on attention-augmented convolutional neural networks and medical diagnostics.
 *   💻 **Full-Stack Engineering**: Developing highly scalable web portals integrated with cloud scheduling, databases, and AI assistance.
 *   📊 **LeetCode Profile**: Active problem solver under [@Akhil_2006_Leetcode](https://leetcode.com/u/Akhil_2006_Leetcode/).
-*   📫 **Contact**: [kuchibhotla.akhil2006@gmail.com](mailto:kuchibhotla.akhil2006@gmail.com) | +91 9381841343
+*   📫 **Contact**: [kuchibhotla.akhil2006@gmail.com](mailto:kuchibhotla.akhil2006@gmail.com) | 
 *   📍 **Location**: Bangalore, India
 
 ---
