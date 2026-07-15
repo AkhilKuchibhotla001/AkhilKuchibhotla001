@@ -1,7 +1,7 @@
 # Hi there, I'm Akhil Kuchibhotla 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+AI+Practitioner;Full+Stack+Web+Developer;Cloud+Computing+Enthusiast;Computer+Science+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Computer+Science+%28Artificial+Intelligence%29+Undergraduate" alt="Typing SVG" />
 </p>
 
 ---
