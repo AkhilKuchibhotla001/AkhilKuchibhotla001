@@ -8,7 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-I am a passionate **Computer Science & Engineering (AI)** student (currently in my **7th Semester** at Amrita Vishwa Vidyapeetham) dedicated to designing, training, and deploying advanced machine learning models and building scalable full-stack applications. I bridge the gap between complex research-level Deep Learning architectures and robust web services.
+I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7th Semester** at Amrita Vishwa Vidyapeetham) with a strong foundation in **Data Structures & Algorithms, Software Engineering, Full-Stack Development, and Machine Learning**. I enjoy building scalable, user-focused applications, solving challenging engineering problems, and transforming ideas into reliable software solutions. I actively explore modern technologies, contribute to practical projects, and continuously improve my skills to build impactful products.
+
 
 *   🎓 **Pursuing B.Tech** in Computer Science & Engineering (AI) — Amrita Vishwa Vidyapeetham .
 *   🧠 **Deep Learning Research**: Currently focused on attention-augmented convolutional neural networks and medical diagnostics.
