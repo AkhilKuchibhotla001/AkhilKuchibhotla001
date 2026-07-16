@@ -15,7 +15,7 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 *   🧠 **Deep Learning Research**: Currently focused on attention-augmented convolutional neural networks and medical diagnostics.
 *   💻 **Full-Stack Engineering**: Developing highly scalable web portals integrated with cloud scheduling, databases, and AI assistance.
 *   📊 **LeetCode Profile**: Active problem solver under [@Akhil_2006_Leetcode](https://leetcode.com/u/Akhil_2006_Leetcode/).
-*   📫 **Contact**: [kuchibhotla.akhil2006@gmail.com](mailto:akhil.kuchibhotla2006@gmail.com) | 
+*   📫 **Contact**: [akhil.kuchibhotla2006@gmail.com](mailto:akhil.kuchibhotla2006@gmail.com) | 
 *   📍 **Location**: Bangalore, India
 
 ---
