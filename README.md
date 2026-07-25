@@ -10,12 +10,11 @@
 
 I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7th Semester** at Amrita Vishwa Vidyapeetham) with a strong foundation in **Data Structures & Algorithms, Software Engineering, Full-Stack Development, and Machine Learning**. I enjoy building scalable, user-focused applications, solving challenging engineering problems, and transforming ideas into reliable software solutions. I actively explore modern technologies, contribute to practical projects, and continuously improve my skills to build impactful products.
 
-
-*   🎓 **Pursuing B.Tech** in Computer Science & Engineering (AI) — Amrita Vishwa Vidyapeetham .
+*   🎓 **Pursuing B.Tech** in Computer Science & Engineering (AI) — Amrita Vishwa Vidyapeetham.
 *   🧠 **Deep Learning Research**: Currently focused on attention-augmented convolutional neural networks and medical diagnostics.
 *   💻 **Full-Stack Engineering**: Developing highly scalable web portals integrated with cloud scheduling, databases, and AI assistance.
 *   📊 **LeetCode Profile**: Active problem solver under [@Akhil_2006_Leetcode](https://leetcode.com/u/Akhil_2006_Leetcode/).
-*   📫 **Contact**: [akhil.kuchibhotla2006@gmail.com](mailto:akhil.kuchibhotla2006@gmail.com) | 
+*   📫 **Contact**: [akhil.kuchibhotla2006@gmail.com](mailto:akhil.kuchibhotla2006@gmail.com)
 *   📍 **Location**: Bangalore, India
 
 ---
@@ -67,22 +66,34 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 
 ## 🔬 Core Portfolio Projects
 
-### ☁️ [Cloud-Based AI-Driven Renewable Energy–Aware Data Center Scheduler](https://github.com/AkhilKuchibhotla001)
-*   Developed an **AI-based workload scheduler** that dynamically distributes cloud workloads across data centers using real-time **solar, wind, and battery metrics**.
-*   Implemented **Greedy and NSGA-II inspired multi-objective optimization algorithms** to reduce grid energy consumption while maintaining workload performance constraints.
-*   Built a **full-stack cloud simulation system** using **Python (Flask), React, Docker, and Kubernetes**, with a dashboard for real-time energy analytics and scheduling insights.
-
 ### 👁️ [Deep Learning-Based Multi-Class Retinal Disease Classification](https://github.com/AkhilKuchibhotla001/Deep-Learning-Project)
-*   Developed a **9-class retinal disease classification model** using **ResNet50**, **CBAM**, and **Mish activation** on **5,335 fundus images**.
-*   Applied **data augmentation** (rotation, shear, zoom, flips) to address class imbalance, improving accuracy from **73% to 81%**.
+*   Developed a **9-class retinal disease classification model** using **ResNet50**, **CBAM** (Convolutional Block Attention Module), and **Mish activation** on **5,335 fundus images**.
+*   Applied **data augmentation** (rotation, shear, zoom, flips) to address class imbalance, improving test accuracy from **73% to 81%**.
 *   Benchmarked against **8 CNN models** and **6 attention mechanisms**, achieving **80.97% accuracy**, **0.8147 Macro F1-Score**, and **98.5% precision** for Diabetic Retinopathy.
 *   Built an evaluation framework using **confusion matrices** and **classification reports** demonstrating strong minority-class performance for automated screening.
 
-### 🏥 [AI-Integrated Healthcare Management and Analysis System](https://github.com/AkhilKuchibhotla001)
+### ⚖️ [Legal Case Outcome Prediction Using InLegalBERT Embeddings](https://github.com/AkhilKuchibhotla001/Machine-Learning-Project)
+*   Developed an end-to-end Machine Learning pipeline to predict court case outcomes (e.g., *Allowed*, *Dismissed*, *Allowed in part*) using Indian legal document embeddings (**InLegalBERT**).
+*   Addressed severe class imbalance by incorporating **SMOTE** (Synthetic Minority Over-sampling Technique) and reduced dimensionality using **PCA**.
+*   Benchmarked 14 machine learning models (boosting, ensemble, and linear classifiers), achieving a peak test accuracy of **82.84%** with Quadratic Discriminant Analysis (QDA) and **74.59%** with LightGBM.
+*   Organized preprocessed datasets, python code notebooks, and visualization plots into structured subdirectories for modularity and execution reproducibility.
+
+### 🏥 [AI-Integrated Healthcare Management and Analysis System](https://github.com/AkhilKuchibhotla001/Software_Engineering_Project)
 *   Developed a **full-stack healthcare platform** using **Django, MongoDB/PostgreSQL, HTML, CSS, and JavaScript**, integrating doctor appointments, medicine delivery, ambulance services, and blood/organ donation.
 *   Built an AI healthcare assistant using the **OpenAI API** and **Scikit-learn** to analyze medical expenses and provide personalized health insights.
 *   Implemented **real-time ambulance tracking**, automated donor-recipient matching, and secure authentication using **JWT**, session-based auth, and **Bcrypt** encryption.
 *   Followed the **Agile-Scrum** methodology across **4 sprints**, managing user stories and feature development using **Jira**.
+
+### 🚗 [Flexi Lane: AI-Driven Dynamic Divider Traffic Simulator](https://github.com/AkhilKuchibhotla001/FAI_project)
+*   Developed an **intelligent 2-way traffic simulation system** in Python using **Pygame** to visualize vehicle movement and dynamically adjust road lanes to reduce traffic congestion.
+*   Designed a responsive **divider controller** that shifts the lane barrier in real time based on active vehicle density while avoiding collisions with active traffic agents.
+*   Built a telemetry system integrating an **SQLite database** to log vehicle metadata (entry/exit times, velocities, types) and a **Matplotlib comparative system** to analyze throughput under fixed vs movable layouts.
+*   Incorporated **AutoGen multi-agent class structures** to simplify vehicle agent generation and mimic complex traffic environments.
+
+### ☁️ [Cloud-Based AI-Driven Renewable Energy–Aware Data Center Scheduler](https://github.com/AkhilKuchibhotla001/Cloud-Computing-Project)
+*   Developed an **AI-based workload scheduler** that dynamically distributes cloud workloads across data centers using real-time **solar, wind, and battery metrics**.
+*   Implemented **Greedy and NSGA-II inspired multi-objective optimization algorithms** to reduce grid energy consumption while maintaining workload performance constraints.
+*   Built a **full-stack cloud simulation system** using **Python (Flask), React, Docker, and Kubernetes**, with a dashboard for real-time energy analytics and scheduling insights.
 
 ---
 
