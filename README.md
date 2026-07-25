@@ -4,6 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Undergrad" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://akhilkuchibhotla001.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://linkedin.com/in/akhilkuchibhotla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
