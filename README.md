@@ -23,6 +23,7 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 *   🧠 **Deep Learning Research**: Currently focused on attention-augmented convolutional neural networks and medical diagnostics.
 *   💻 **Full-Stack Engineering**: Developing highly scalable web portals integrated with cloud scheduling, databases, and AI assistance.
 *   📊 **LeetCode Profile**: Active problem solver under [@Akhil_2006_Leetcode](https://leetcode.com/u/Akhil_2006_Leetcode/).
+*   🌐 **Portfolio Link**: [https://akhilkuchibhotla001.github.io/](https://akhilkuchibhotla001.github.io/)
 *   📫 **Contact**: [akhil.kuchibhotla2006@gmail.com](mailto:akhil.kuchibhotla2006@gmail.com)
 *   📍 **Location**: Bangalore, India
 
@@ -138,7 +139,7 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
   <a href="https://github.com/AkhilKuchibhotla001">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:kuchibhotla.akhil2006@gmail.com">
+  <a href="mailto:akhil.kuchibhotla2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/akhilkuchibhotla">
