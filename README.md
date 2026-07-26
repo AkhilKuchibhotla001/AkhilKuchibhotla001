@@ -105,6 +105,18 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 *   Implemented **Greedy and NSGA-II inspired multi-objective optimization algorithms** to reduce grid energy consumption while maintaining workload performance constraints.
 *   Built a **full-stack cloud simulation system** using **Python (Flask), React, Docker, and Kubernetes**, with a dashboard for real-time energy analytics and scheduling insights.
 
+### 📊 [Scalable Cross-Asset Normalization Framework: Crypto Analytics](https://github.com/AkhilKuchibhotla001/Big-Data-Analysis-Project)
+*   Developed a **distributed computing pipeline** using **Hadoop HDFS** for scalable storage and **Apache Spark / PySpark** for in-memory parallel computation on 340,000+ daily trading records.
+*   Implemented a **Translation Join** algorithm to map and convert quote assets to USD, stabilizing pricing metrics across 1,101 different asset categories.
+*   Designed and trained rolling **Gradient Boosting Machine (GBM)** direction classifiers (51.74% accuracy) and **Quantile Regression** multi-scenario forecasting models (p10, p50, p90) to project futures cone of uncertainty.
+*   Built an interactive analytics control center using **Streamlit** to visualize correlations, safety scores, and predictive scenarios.
+
+### 🧬 [Aspergillus Species Protein Classifier](https://github.com/AkhilKuchibhotla001/Bio)
+*   Developed a **bioinformatics and machine learning pipeline** to classify protein sequences into three Aspergillus genus species (*A. tubingensis*, *A. fumigatus*, and *A. niger*).
+*   Extracted key **physicochemical protein features** (Molecular Weight, Instability Index, Aromaticity, Hydrophobicity) and amino acid frequency descriptors.
+*   Trained and cross-evaluated four classification algorithms (**SVM, Random Forest, XGBoost, and Logistic Regression**), achieving a peak weighted F1-score and test accuracy of **84.06%** (via Logistic Regression).
+*   Exported standardized evaluation metric logs and confusion matrices to test model robustness and generalization limits under 10% shuffling noise.
+
 ---
 
 ## 📜 Certifications
