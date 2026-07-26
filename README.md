@@ -76,6 +76,12 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 
 ## 🔬 Core Portfolio Projects
 
+### 🔍 [Recallr: NLP-Powered Hybrid Document Search & RAG Pipeline](https://github.com/AkhilKuchibhotla001/Recallr-NLP)
+*   Developed a **hybrid document search and retrieval system** integrating keyword-based (TF-IDF/BM25) and semantic vector representations (bi-encoders/cross-encoders).
+*   Built a **modular NLP processing engine** for PDF documents including layout-aware parsing, custom text chunking, and metadata caching.
+*   Implemented **specialized search modules** for Python code search (AST-aware structural matching) and mathematical formulas (LaTeX parser).
+*   Designed an interactive **Vanilla JS dashboard UI** coupled with a **FastAPI backend** for low-latency queries and search performance evaluations.
+
 ### 👁️ [Deep Learning-Based Multi-Class Retinal Disease Classification](https://github.com/AkhilKuchibhotla001/Deep-Learning-Project)
 *   Developed a **9-class retinal disease classification model** using **ResNet50**, **CBAM** (Convolutional Block Attention Module), and **Mish activation** on **5,335 fundus images**.
 *   Applied **data augmentation** (rotation, shear, zoom, flips) to address class imbalance, improving test accuracy from **73% to 81%**.
