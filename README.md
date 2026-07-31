@@ -123,6 +123,11 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 *   Designed and trained rolling **Gradient Boosting Machine (GBM)** direction classifiers (51.74% accuracy) and **Quantile Regression** multi-scenario forecasting models (p10, p50, p90) to project futures cone of uncertainty.
 *   Built an interactive analytics control center using **Streamlit** to visualize correlations, safety scores, and predictive scenarios.
 
+### 🎨 [Word Sculpt: Enterprise Word Cloud Dashboard](https://github.com/AkhilKuchibhotla001/word-sculpt-dashboard)
+*   Engineered a **full-stack web application** using **Spring Boot (Java 17)** and **Vanilla JavaScript** to process text data and generate beautiful, highly customizable word clouds.
+*   Developed a custom $O(1)$ text frequency algorithm using **Java Collections and Streams** to accurately parse, filter stop-words, and normalize data weights in real-time.
+*   Designed a stunning, modern **glassmorphism UI** with a **Dark Mode** aesthetic, integrating **D3.js** for canvas-based SVG rendering and **Chart.js** for analytical metric visualizations.
+
 ### 🧬 [Aspergillus Species Protein Classifier](https://github.com/AkhilKuchibhotla001/Bio)
 *   Developed a **bioinformatics and machine learning pipeline** to classify protein sequences into three Aspergillus genus species (*A. tubingensis*, *A. fumigatus*, and *A. niger*).
 *   Extracted key **physicochemical protein features** (Molecular Weight, Instability Index, Aromaticity, Hydrophobicity) and amino acid frequency descriptors.
