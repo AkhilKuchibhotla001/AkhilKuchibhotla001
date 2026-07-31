@@ -106,6 +106,12 @@ I am a passionate **Artificial Intelligence Undergraduate** (currently in my **7
 *   Built a telemetry system integrating an **SQLite database** to log vehicle metadata (entry/exit times, velocities, types) and a **Matplotlib comparative system** to analyze throughput under fixed vs movable layouts.
 *   Incorporated **AutoGen multi-agent class structures** to simplify vehicle agent generation and mimic complex traffic environments.
 
+### 🚀 [Cloud Computing: Modernized AI-Driven Renewable Energy Scheduler](https://github.com/AkhilKuchibhotla001/Cloud-Computing-Project-New)
+*   **Infrastructure as Code (IaC)**: Provisioned scalable cloud infrastructure on **Google Cloud Platform (GCP)**, including a Google Kubernetes Engine (GKE) cluster, using **Terraform**.
+*   **CI/CD Automation**: Designed and implemented end-to-end continuous integration and deployment pipelines using **Jenkins** for automated Docker image building and Kubernetes rollouts.
+*   **Advanced Observability**: Integrated **Prometheus** and **Grafana** to monitor real-time AI scheduling decisions, grid energy consumption, and carbon footprint reduction metrics.
+*   **Microservices Orchestration**: Containerized the Flask and React microservices with **Docker** and orchestrated their deployment on **Kubernetes**, ensuring high availability and load balancing.
+
 ### ☁️ [Cloud-Based AI-Driven Renewable Energy–Aware Data Center Scheduler](https://github.com/AkhilKuchibhotla001/Cloud-Computing-Project)
 *   Developed an **AI-based workload scheduler** that dynamically distributes cloud workloads across data centers using real-time **solar, wind, and battery metrics**.
 *   Implemented **Greedy and NSGA-II inspired multi-objective optimization algorithms** to reduce grid energy consumption while maintaining workload performance constraints.
